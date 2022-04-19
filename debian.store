@@ -1,1 +1,1 @@
-{"base": "455248f", "parent": "debian/rolling/osqp_vendor", "previous": "14c73ba", "trim": "", "trimbase": ""}
+{"base": "0a17b26", "parent": "debian/humble/osqp_vendor", "previous": "0f97676", "trim": "", "trimbase": ""}
